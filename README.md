@@ -1,1 +1,1 @@
-# hw3-grid
+# Responsive Grid
