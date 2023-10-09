@@ -207,7 +207,7 @@ first div in the grid  and place it in the grid. */
 @media screen and (max-width: 700px) {
   .container {
     display: grid;
-    grid-template-columns: 50px auto 500px auto 50px;
+    grid-template-columns: 50px auto 500px auto 50px;}
     nav {
       position: fixed;
       top: 30px;
@@ -228,8 +228,7 @@ first div in the grid  and place it in the grid. */
     .text-block {
       max-height: 250px;
       overflow-y: auto;
-    }
-  }
+}
 }
 
 /* Step 9: Write the selector/rule property to style the nav element */
